@@ -9,6 +9,7 @@ Localhost linki: [http://localhost:5173/](http://localhost:5173/)
 npm install
 npm run dev
 ```
+##Web programlama dersinde bu projeye ek olarak Register ve Login bileşenleri oluşturduğum hali:https://frontend-react-main-coral.vercel.app/
 
 ## Bileşenler
 1. **Navbar:** Navigasyon Çubuğu
