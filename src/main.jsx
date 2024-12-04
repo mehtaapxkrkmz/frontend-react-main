@@ -10,7 +10,6 @@ import PageNotFound from "./components/PageNotFound";
 import { Routes, Route, BrowserRouter } from "react-router-dom";
 import store from "./redux/store.jsx";
 import { Provider } from "react-redux";
-import { NavLink,Link} from "react-router-dom";
 import Register from "./components/Register.jsx";
 import Login from "./components/Login.jsx";
 

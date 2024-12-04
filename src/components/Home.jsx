@@ -15,14 +15,7 @@ const Home = () => {
       foodanddrink: ["Web", "Yazılım", "ASY"],
     },
 
-    {
-      _id: 2,
-      name: "EE Mühendisliği",
-      rating: 5,
-      distance: 1,
-      address: "SDÜ",
-      foodanddrink: ["Web", "Yazılım", "ASY"],
-    },
+   
   ];
   return (
     <div>
